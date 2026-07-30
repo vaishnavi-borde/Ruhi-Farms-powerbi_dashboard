@@ -120,7 +120,7 @@ Example:
 - B.E. Computer Science & Data Science
 - Savitribai Phule Pune University (SPPU)
 
-GitHub: https://github.com/vaishnavi-borde
+GitHub: https://github.com/vaishnavi-borde/Ruhi-Farms-powerbi_dashboard
 
 ---
 
